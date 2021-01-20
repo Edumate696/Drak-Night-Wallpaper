@@ -1,5 +1,5 @@
 # Drak Night Wallpaper
-Project on Live Walpaper Idea for Android Devices
+Project on Live Wallpaper Idea for Android Devices
 
 ----
 ```Readme Under Construction```
